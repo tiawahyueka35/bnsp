@@ -19,6 +19,6 @@
     <hr>
     <iframe src="arsip/<?php echo $r_tampil_arsip['data_surat'];; ?>" style="width: 100%;height: 500px;"></iframe>
     <button type="button" class="tombol"><a href="index.php?p=e-arsip" style="color:black"><< Kembali</a>
-    <button type="button" class="tombol"><a href="http://localhost/Arsip/arsip/<?php echo $file?>" style="color:black">Unduh</a>
+    <button type="button" class="tombol"><a href="http://localhost/bnsp/arsip/<?php echo $file?>" style="color:black">Unduh</a>
     <button type="button" class="tombol"><a href="#" style="color:black">Edit/Ganti File</a>
 </div>
